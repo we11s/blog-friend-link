@@ -1,0 +1,40 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "S1nec-1o's Blog",
+      "url": "https://s1nec-1o.github.io/",
+      "avatar": "https://cdn.jsdelivr.net/gh/s1nec-1o/photo@main/img/202503211138596.jpg",
+      "screenshot": "",
+      "description": "Aaa"
+    },
+    {
+      "title": "Potat0w0's Blog",
+      "url": "https://blog.potatowo.top",
+      "avatar": "https://blog.potatowo.top/img/icon.jpg",
+      "screenshot": "",
+      "description": "努力学习的ctfer"
+    },
+    {
+      "title": "Pax",
+      "url": "http://blog.hackpax.top/",
+      "avatar": "http://blog.hackpax.top/images/mh.gif",
+      "screenshot": "",
+      "description": " The man is very handsome ! "
+    },
+    {
+      "title": "Satoru's Blog",
+      "url": "https://sat0ru-qwq.github.io",
+      "avatar": "https://cdn.jsdelivr.net/gh/xzb666-hub/myblogimage@img/image/image-20240919153040389.png",
+      "screenshot": "",
+      "description": "<a href=Satoru's Home>Sat0ru_qwq</a>"
+    },
+    {
+      "title": "Sherlock",
+      "url": "https://cina666.github.io/",
+      "avatar": "https://cina666.github.io/img/Sherlock.jpg",
+      "screenshot": "",
+      "description": "给你两个窝窝"
+    }
+  ]
+}
